@@ -11,7 +11,7 @@
         <title></title>
     </head>
     <body>
-
+        
         <div class="container my-5">
 
             <div class="row">
@@ -25,6 +25,10 @@
               
              
                     <a class="btn alert-danger m-3" href="paginas/3/index.html">3</a>
+                    
+                    <a class="btn alert-danger m-3" href="paginas/4/plugins-1/inicio.php">4</a>
+                    
+                    <a class="btn alert-danger m-3" href="paginas/5/plugins-2/plug.php">5</a>
 
 
 
